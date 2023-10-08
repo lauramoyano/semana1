@@ -10,7 +10,6 @@ import (
 	"github.com/lauramoyano/semana1/foobar"
 	"github.com/lauramoyano/semana1/mario"
 	"github.com/lauramoyano/semana1/ohm"
-	// full path including the mod name
 )
 
 func main() {
